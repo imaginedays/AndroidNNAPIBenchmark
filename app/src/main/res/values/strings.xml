@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NNAPI性能测试</string>
+    <string name="start_benchmark">开始性能测试</string>
+    <string name="device_info">设备信息</string>
+    <string name="benchmark_results">测试结果</string>
+    <string name="run_matmul">矩阵乘法测试</string>
+    <string name="run_conv">卷积测试</string>
+    <string name="run_all">运行所有测试</string>
+</resources>
